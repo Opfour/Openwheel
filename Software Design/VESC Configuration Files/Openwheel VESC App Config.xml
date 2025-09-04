@@ -86,8 +86,8 @@
     <app_balance_conf.fault_pitch>15</app_balance_conf.fault_pitch>
     <app_balance_conf.fault_roll>15</app_balance_conf.fault_roll>
     <app_balance_conf.fault_duty>0.95</app_balance_conf.fault_duty>
-    <app_balance_conf.fault_adc1>1</app_balance_conf.fault_adc1>
-    <app_balance_conf.fault_adc2>1</app_balance_conf.fault_adc2>
+    <app_balance_conf.fault_adc1>2</app_balance_conf.fault_adc1>
+    <app_balance_conf.fault_adc2>2</app_balance_conf.fault_adc2>
     <app_balance_conf.fault_delay_pitch>0</app_balance_conf.fault_delay_pitch>
     <app_balance_conf.fault_delay_roll>0</app_balance_conf.fault_delay_roll>
     <app_balance_conf.fault_delay_duty>0</app_balance_conf.fault_delay_duty>
@@ -103,7 +103,7 @@
     <app_balance_conf.tiltback_constant_erpm>500</app_balance_conf.tiltback_constant_erpm>
     <app_balance_conf.startup_pitch_tolerance>0.5</app_balance_conf.startup_pitch_tolerance>
     <app_balance_conf.startup_roll_tolerance>8</app_balance_conf.startup_roll_tolerance>
-    <app_balance_conf.startup_speed>0.5</app_balance_conf.startup_speed>
+    <app_balance_conf.startup_speed>1</app_balance_conf.startup_speed>
     <app_balance_conf.deadzone>0</app_balance_conf.deadzone>
     <app_balance_conf.current_boost>0</app_balance_conf.current_boost>
     <app_balance_conf.multi_esc>0</app_balance_conf.multi_esc>
@@ -136,15 +136,15 @@
     <imu_conf.mahony_kp>0.3</imu_conf.mahony_kp>
     <imu_conf.mahony_ki>0</imu_conf.mahony_ki>
     <imu_conf.madgwick_beta>0.04</imu_conf.madgwick_beta>
-    <imu_conf.rot_roll>2.11</imu_conf.rot_roll>
-    <imu_conf.rot_pitch>5.1</imu_conf.rot_pitch>
+    <imu_conf.rot_roll>2.7</imu_conf.rot_roll>
+    <imu_conf.rot_pitch>4.46</imu_conf.rot_pitch>
     <imu_conf.rot_yaw>90</imu_conf.rot_yaw>
     <imu_conf.accel_offsets__0>0</imu_conf.accel_offsets__0>
     <imu_conf.accel_offsets__1>0</imu_conf.accel_offsets__1>
     <imu_conf.accel_offsets__2>0</imu_conf.accel_offsets__2>
-    <imu_conf.gyro_offsets__0>-0.51</imu_conf.gyro_offsets__0>
-    <imu_conf.gyro_offsets__1>-0.58</imu_conf.gyro_offsets__1>
-    <imu_conf.gyro_offsets__2>-0.03</imu_conf.gyro_offsets__2>
+    <imu_conf.gyro_offsets__0>-0.44</imu_conf.gyro_offsets__0>
+    <imu_conf.gyro_offsets__1>-0.55</imu_conf.gyro_offsets__1>
+    <imu_conf.gyro_offsets__2>-0.17</imu_conf.gyro_offsets__2>
     <imu_conf.gyro_offset_comp_fact__0>0</imu_conf.gyro_offset_comp_fact__0>
     <imu_conf.gyro_offset_comp_fact__1>0</imu_conf.gyro_offset_comp_fact__1>
     <imu_conf.gyro_offset_comp_fact__2>0</imu_conf.gyro_offset_comp_fact__2>
