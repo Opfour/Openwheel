@@ -17,7 +17,7 @@ It was featured on my [YouTube channel](https://www.youtube.com/@ByteSizedEngine
 
 ## 🔩 Mechanical Design  
 You can access the latest Fusion 360 model here:  
-[🔗 View 3D Model in Fusion 360](https://a360.co/your-link)
+[🔗 Version 1](https://a360.co/3xSqKqT)
 
 ## 🏗️ Build Instructions  
 
